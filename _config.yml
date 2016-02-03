@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://katunsworth.github.io
+title: My site
+email: kathryn.unsworth@gmail.com
+author: katunsworth
+description: My awesome new site for testing plot.ly
+paginate: 3
+google_analytics: 
